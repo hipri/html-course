@@ -31,7 +31,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.html">Fatima Hiprenoridel</a>
+              <a class="navbar-brand" href="/">Your name here</a>
             </div>
         
 
